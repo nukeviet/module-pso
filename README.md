@@ -5,7 +5,6 @@ Module dịch vụ công trực tuyến (Public Services Online) được phát 
 Module này cũng có thể làm FRONTEND nếu hệ thống có sử dụng [VietOpenCPS](https://github.com/VietOpenCPS)
 
 # Tài liệu
-Tất cả các tài liệu được sử dụng trong dự án OpenCPS
 
 Để bắt đầu mời các bạn tham khảo thông tin trên trang [wiki](https://github.com/nukeviet/module-pso/wiki)
 
